@@ -26,11 +26,11 @@
 
 ## About me
 * :computer: Web Developer until now
-* :game_die: Future game developer
+* :game_die: Future Game Developer
 * 🌱 I’m currently learning Game Design theories and techniques
-* :dancers: Looking for new collaborating people to work with
-* :video_game: Videogames passionate, actually playing to *Demon's Souls* (2020) and *Divinity: Original Sin II* (2017)
-* :book: Manga reader, actually reading *Berserk*
+* :dancers: Looking for new collaborative people to work with
+* :video_game: Videogames passionate, currently playing to *Demon's Souls* (2020) and *Divinity: Original Sin II* (2017)
+* :book: Manga reader, currently reading *Berserk*
 
 ---
 
