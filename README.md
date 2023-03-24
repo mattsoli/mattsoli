@@ -36,7 +36,7 @@
 
 ## Game Engines
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/mattsoli/mattsoli/blob/main/unity-logo.png" title="Unity" alt="Unity" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="Unreal Engine" alt="Unreal Engine" width="100" height="100"/>&nbsp;
 </div>
 
