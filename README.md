@@ -29,7 +29,7 @@
 * :game_die: Future Game Developer
 * 🌱 I’m currently learning Game Design theories and techniques
 * :dancers: Looking for new collaborative people to work with
-* :video_game: Videogames passionate, currently playing to *Demon's Souls* (2020) and *Divinity: Original Sin II* (2017)
+* :video_game: Videogames passionate, currently playing to *Dead Space* (2023) and *Divinity: Original Sin II* (2017)
 * :book: Manga reader, currently reading *Berserk*
 
 ---
