@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=900&size=26&duration=3000&pause=1000&color=F0DD04&center=true&multiline=true&repeat=false&width=500&height=70&lines=Welcome+to+my+GitHub+profile!;I'm+Mattia%2C+an+aspiring+Game+Designer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=900&size=26&duration=3000&pause=1000&color=F0DD04&center=true&multiline=true&repeat=false&width=500&height=70&lines=Welcome+to+my+GitHub+profile!;I'm+Mattia%2C+a+Game+Designer)](https://git.io/typing-svg)
   
   <img src="https://media.giphy.com/media/iB52YKeaAFXnGkqLO0/giphy.gif" width="100"/>
 
