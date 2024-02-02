@@ -29,7 +29,7 @@
 * :game_die: Future Game Developer
 * 🌱 I’m currently learning Game Design theories and techniques
 * :dancers: Looking for new collaborative people to work with
-* :video_game: Videogames passionate, currently playing to *Dead Space* (2023) and *Divinity: Original Sin II* (2017)
+* :video_game: Videogames passionate, currently playing to *Crash Bandicoot 4* (2020) and *Baldur's Gate III* (2023)
 * :book: Manga reader, currently reading *Berserk*
 
 ---
@@ -38,5 +38,6 @@
 <div>
   <img src="https://github.com/mattsoli/mattsoli/blob/main/unity-logo.png" title="Unity" alt="Unity" width="100" height="100"/>&nbsp;
   <img src="https://github.com/mattsoli/mattsoli/blob/main/unreal-logo.png" title="Unreal Engine" alt="Unreal Engine" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/mattsoli/mattsoli/blob/main/godot-logo.png" title="Godot" alt="Godot" width="100" height="100"/>&nbsp;
 </div>
 
