@@ -25,12 +25,13 @@
 ---
 
 ## About me
+* :game_die: Game Designer & Indie Game Developer
+* 👥 Co-founder and member of <a href="https://github.com/StarDice-Games">Stardice Games</a>
 * :computer: Web Developer until now
-* :game_die: Future Game Developer
-* 🌱 I’m currently learning Game Design theories and techniques
-* :dancers: Looking for new collaborative people to work with
-* :video_game: Videogames passionate, currently playing to *Crash Bandicoot 4* (2020) and *Baldur's Gate III* (2023)
-* :book: Manga reader, currently reading *Berserk*
+* 🌱 Always studying Game Design theories and techniques
+* :dancers: Looking for new collaborative people to make Game Jams with
+* :video_game: Videogames passionate, currently playing to *Elden Ring: Shadow of the Erdtree* (FromSoftware, 2024) and *Bayonetta Origins: Cereza and the Lost Demon* (Platinum Games, 2023)
+* :book: Manga reader, currently reading *Berserk* and *Vagabond*
 
 ---
 
